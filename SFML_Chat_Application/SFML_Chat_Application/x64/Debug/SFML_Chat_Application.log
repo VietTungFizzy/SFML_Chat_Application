@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(399,5): warning MSB8029: The Intermediate directory or Output directory cannot reside under the Temporary directory as it could lead to issues with incremental build.
+  Source.cpp
+d:\exercise\sfml_chat_application\sfml_chat_application\source.cpp(40): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  SFML_Chat_Application.vcxproj -> D:\Exercise\SFML_Chat_Application\x64\Debug\SFML_Chat_Application.exe
